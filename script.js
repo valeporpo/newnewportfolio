@@ -1,4 +1,4 @@
-// Main sections  
+/*// Main sections  
 const sections = document.querySelectorAll("section.main-section");
 // Section anchors
 const anchors = document.querySelectorAll("#top-menu ul li");
@@ -101,4 +101,4 @@ document.getElementById("submit").addEventListener("click", function() {
 });
 anchors.forEach(function(el, ind) {
   console.log("clicked anchor");
-})
+})*/
